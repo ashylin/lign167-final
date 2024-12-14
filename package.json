@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "@react-oauth/google": "^0.12.1",
+    "@types/gapi": "^0.0.47",
+    "@types/gapi.auth2": "^0.0.61",
+    "@types/gapi.client.calendar": "^3.0.12",
+    "@types/recharts": "^1.8.29",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "googleapis": "^105.0.0",
+    "openai": "^4.76.2",
+    "recharts": "^2.14.1"
+  }
+}
