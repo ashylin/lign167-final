@@ -46,7 +46,7 @@ The backend is an Express server located in the `BACKEND` directory. It handles 
 1. Clone the repository:
    ```sh
    git clone https://github.com/ashylin/lign167-final.git
-   cd project-schedular
+   cd lign167-final
    ```
 
 2. Install dependencies for both frontend and backend:
